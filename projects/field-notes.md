@@ -5,7 +5,7 @@ description: |
   visual notes from a coming of age.
 
   in chronological order. 35mm film.
-year: 2018
+year: 2023
 images:
   - src: /assets/uploads/firsthalf2019-roll1-019.jpg
   - src: /assets/uploads/firsthalf2019-roll1-014.jpg
