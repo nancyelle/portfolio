@@ -4,7 +4,7 @@ title: field notes
 description: |
   visual notes from a coming of age.
 
-  in chronological order. 35mm film.
+  2018-2023, in chronological order.  35mm film.
 year: 2023
 images:
   - src: /assets/uploads/firsthalf2019-roll1-019.jpg
