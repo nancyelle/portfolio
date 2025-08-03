@@ -12,23 +12,27 @@ config:
 metadata:
   site_url: 'https://astounding-cocada-2ef2aa.netlify.app/'
   site_title: nancy elle
-  site_subtitle_1: paint & film
+  site_subtitle_1: visual artist
   site_subtitle_2: 'atlanta, ga'
   site_description: >
     nancy is currently:
 
+
     photographing and writing bimonthly visual diary entries on
     [Substack](https://nancyelle.substack.com/).
+
 
     researching, scripting, and recording art history essays for [ART
     BLANCHE](https://open.spotify.com/show/4LmTpL9oSsXrFAABL4raOl?si=d7c2263e4b584e13).
 
 
-    you can contact her at:  
+    you can contact her at:
 
-    hello\@nancyelle.com
 
-    instagram: @[nancyelle\_](https://instagram.com/nancyelle_)
+    [hello@nancyelle.com](mailto:hello@nancyelle.com)
+
+
+    @[nancyelle\_](https://instagram.com/nancyelle_)
   site_email: hello@nancyelle.com
   site_social_url: 'http://instagram.com/nancyelle_'
   site_icon_svg: /assets/uploads/favicon.svg
