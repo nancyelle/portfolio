@@ -1,6 +1,6 @@
 ---
 draft: false
-title: field notes
+title: field notes (2018-2023)
 description: |
   visual notes from a coming of age.
 
