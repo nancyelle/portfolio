@@ -12,8 +12,8 @@ config:
 metadata:
   site_url: 'https://astounding-cocada-2ef2aa.netlify.app/'
   site_title: nancy elle
-  site_subtitle_1: paint / film
-  site_subtitle_2: 'atlanta, ga'
+  site_subtitle_1: ''
+  site_subtitle_2: paint / film
   site_description: >
     nancy is currently creating bimonthly visual diary entries on
     [substack](https://nancyelle.substack.com/) and recording art history essays
