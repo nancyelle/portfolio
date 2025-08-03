@@ -2,7 +2,7 @@
 draft: false
 title: field notes (2018-2023)
 description: |
-  a photography book comprising of visual notes from a coming of age.
+  visual notes from a coming of age.
 
   in chronological order.  35mm film.
 images:
